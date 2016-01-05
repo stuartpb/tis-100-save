@@ -1,7 +1,8 @@
 @0
-##FEWER CYCLES
+
 
 @1
+## FEWEST NODES
 MOV UP, DOWN
 
 @2
